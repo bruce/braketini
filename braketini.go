@@ -1,7 +1,7 @@
 package braketini
 
 import (
-	"github.com/airbrake/gobrake"
+	"gopkg.in/airbrake/gobrake.v1"
 	"github.com/go-martini/martini"
 	"net/http"
 )
